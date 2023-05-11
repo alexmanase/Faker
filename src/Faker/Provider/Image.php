@@ -31,7 +31,7 @@ class Image extends Base
      *
      * Set randomize to false to remove the random GET parameter at the end of the url.
      *
-     * @example 'http://via.placeholder.com/640x480.png/CCCCCC?text=well+hi+there'
+     * @example 'http://placehold.co/640x480.png/CCCCCC?text=well+hi+there'
      *
      * @param int         $width
      * @param int         $height
